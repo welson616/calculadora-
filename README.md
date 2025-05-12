@@ -61,7 +61,7 @@
         Esta herramienta es más que una calculadora común. Ofrece funciones como operaciones básicas, cálculos científicos y una presentación visual clara que facilita el aprendizaje. Ideal para el entorno educativo y uso personal, su diseño UX/UI está pensado para brindar comodidad y enfoque.
       </p>
       <p>
-        Gracias a su estructura responsive, puedes acceder a la calculadora desde cualquier dispositivo: móvil, tablet o computadora. Además, su carga rápida y código optimizado garantizan una experiencia de usuario sin interrupciones.
+        Gracias a su estructura responsive, puedes acceder a <a href="https://welson616.github.io/alculadora-alicia/" target="_blank"><strong>la calculadora </strong></a> desde cualquier dispositivo: móvil, tablet o computadora. Además, su carga rápida y código optimizado garantizan una experiencia de usuario sin interrupciones.
       </p>
       <p>
         Si eres creador de contenido o un estudiante, integrar <strong>la calculadora alicia</strong> a tu rutina puede ahorrarte tiempo y esfuerzo. Su diseño claro con colores suaves ayuda a reducir la fatiga visual, lo que la convierte en una opción preferida para quienes pasan mucho tiempo estudiando o trabajando.

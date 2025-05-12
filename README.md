@@ -54,7 +54,7 @@
     <h1>Explora la nueva <span class="highlight">Calculadora Alicia</span></h1>
     <p>
       ¿Estás buscando una herramienta inteligente para resolver problemas matemáticos?
-      Conoce <a href="https://welson616.github.io/alculadora-alicia/index.html" target="_blank"><strong>la calculadora alicia</strong></a>, una solución moderna con una interfaz intuitiva, diseñada para estudiantes, profesionales y cualquier persona que busque precisión y rapidez.
+      Conoce <a href="https://calculadoraalicia.net/" target="_blank"><strong>la calculadora alicia</strong></a>, una solución moderna con una interfaz intuitiva, diseñada para estudiantes, profesionales y cualquier persona que busque precisión y rapidez.
     </p>
     <div class="read-more" id="more-content">
       <p>
